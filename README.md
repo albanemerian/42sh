@@ -10,19 +10,19 @@
 | Basic tests                      | 100%       | 4/4   | x     |
 | Path handling                    | 100%       | 5/5   | x     |
 | Setenv and unsetenv              | 100%       | 2/2   | x     |
-| Builtin cd                      | 100%       | 3/3   | x     |
+| Builtin cd                      | 100%        | 3/3   | x     |
 | Line formatting (space and tabs) | 100%       | 8/8   | x     |
 | Error handling                  | 100%       | 6/6   | x     |
 | Separator                       | 100%       | 1/1   | x     |
 | Simple pipe                     | 100%       | 3/3   | x     |
 | Advenced pipe                   | 100%       | 6/6   | x     |
 | Redirections                    | 100%       | 5/5   | x     |
-| Advenced manipulations          | 66.7%        | 2/3   | x     |
+| Advenced manipulations          | 66.7%      | 2/3   | x     |
 | && and || tests                 | 100%       | 3/3   | x     |
 | Globbing                        | 100%       | 1/1   | x     |
 | Var interpreter                 | 100%       | 3/3   | x     |
-| Inhibitor                       | 50%       | 1/2   | x     |
-| Magic quote                     | 66.7%       | 2/3   | x     |
+| Inhibitor                       | 50%        | 1/2   | x     |
+| Magic quote                     | 66.7%      | 2/3   | x     |
 | Alias                           | 75%        | 3/4   | x     |
 | Scripting                       | 100%       | 1/1   | x     |
 | Foreach                         | 0%         | 1/1   | x     |
