@@ -1,0 +1,5 @@
+#! ./42sh
+ls -d /usr/bin
+pwd
+
+cat /etc/passwd | grep root --color=auto
