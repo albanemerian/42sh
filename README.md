@@ -3,7 +3,8 @@
 
 **This project is suposed to recreate a shell terminal like tcsh**
 
-I realised this project with thréé of my colleagues @ann7415 , @konogannn and @Matisse-M
+I realised this project with thréé of my colleagues @ann7415 , @konogannn and @https://github.com/Matisse-M
+
 
 | Category                         | Percentage | Tests | Crash |
 |----------------------------------|------------|-------|-------|
