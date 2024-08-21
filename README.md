@@ -18,7 +18,7 @@
 | Advenced pipe                   | 100%       | 6/6   | x     |
 | Redirections                    | 100%       | 5/5   | x     |
 | Advenced manipulations          | 66.7%      | 2/3   | x     |
-| && and || tests                 | 100%       | 3/3   | x     |
+| && and pipes tests              | 100%       | 3/3   | x     |
 | Globbing                        | 100%       | 1/1   | x     |
 | Var interpreter                 | 100%       | 3/3   | x     |
 | Inhibitor                       | 50%        | 1/2   | x     |
