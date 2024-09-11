@@ -32,3 +32,5 @@
 | Repeat                          | 0%         | 1/1   | x     |
 | Parenthesis                     | 100%       | 1/1   | x     |
 | End scores                      | 83.3%      | 61/72 | x     |
+
+Grade A
